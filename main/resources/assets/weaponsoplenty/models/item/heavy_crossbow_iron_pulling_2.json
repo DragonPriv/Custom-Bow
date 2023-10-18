@@ -1,0 +1,6 @@
+{
+  "parent": "weaponsoplenty:item/base/heavy_crossbow_pulling",
+  "textures": {
+    "layer0": "weaponsoplenty:item/heavy_crossbow_iron_pulling_2"
+  }
+}

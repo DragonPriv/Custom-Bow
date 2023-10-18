@@ -1,0 +1,6 @@
+{
+  "parent": "weaponsoplenty:item/base/longbow_pulling",
+  "textures": {
+    "layer0": "weaponsoplenty:item/longbow_iron_pulling_1"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "item.weaponsoplenty.handle": "Handle",
+  "item.weaponsoplenty.explosive_charge": "Explosive Charge",
+
+  "item.weaponsoplenty.greatsword_wood": "Wooden Greatsword",
+  "item.weaponsoplenty.greatsword_stone": "Stone Greatsword",
+  "item.weaponsoplenty.greatsword_iron": "Iron Greatsword",
+  "item.weaponsoplenty.greatsword_gold": "Gold Greatsword",
+  "item.weaponsoplenty.greatsword_diamond": "Diamond Greatsword",
+  "item.weaponsoplenty.greatsword_netherite": "Netherite Greatsword",
+
+  "item.weaponsoplenty.longsword_wood": "Wooden Longsword",
+  "item.weaponsoplenty.longsword_stone": "Stone Longsword",
+  "item.weaponsoplenty.longsword_iron": "Iron Longsword",
+  "item.weaponsoplenty.longsword_gold": "Gold Longsword",
+  "item.weaponsoplenty.longsword_diamond": "Diamond Longsword",
+  "item.weaponsoplenty.longsword_netherite": "Netherite Longsword",
+
+  "item.weaponsoplenty.katana_wood": "Wooden Katana",
+  "item.weaponsoplenty.katana_stone": "Stone Katana",
+  "item.weaponsoplenty.katana_iron": "Iron Katana",
+  "item.weaponsoplenty.katana_gold": "Gold Katana",
+  "item.weaponsoplenty.katana_diamond": "Diamond Katana",
+  "item.weaponsoplenty.katana_netherite": "Netherite Katana",
+
+  "item.weaponsoplenty.saber_wood": "Wooden Saber",
+  "item.weaponsoplenty.saber_stone": "Stone Saber",
+  "item.weaponsoplenty.saber_iron": "Iron Saber",
+  "item.weaponsoplenty.saber_gold": "Gold Saber",
+  "item.weaponsoplenty.saber_diamond": "Diamond Saber",
+  "item.weaponsoplenty.saber_netherite": "Netherite Saber",
+
+  "item.weaponsoplenty.rapier_wood": "Wooden Rapier",
+  "item.weaponsoplenty.rapier_stone": "Stone Rapier",
+  "item.weaponsoplenty.rapier_iron": "Iron Rapier",
+  "item.weaponsoplenty.rapier_gold": "Gold Rapier",
+  "item.weaponsoplenty.rapier_diamond": "Diamond Rapier",
+  "item.weaponsoplenty.rapier_netherite": "Netherite Rapier",
+
+  "item.weaponsoplenty.quarterstaff_wood": "Wooden Quarterstaff",
+  "item.weaponsoplenty.quarterstaff_stone": "Stone Quarterstaff",
+  "item.weaponsoplenty.quarterstaff_iron": "Iron Quarterstaff",
+  "item.weaponsoplenty.quarterstaff_gold": "Gold Quarterstaff",
+  "item.weaponsoplenty.quarterstaff_diamond": "Diamond Quarterstaff",
+  "item.weaponsoplenty.quarterstaff_netherite": "Netherite Quarterstaff",
+
+  "item.weaponsoplenty.club_wood": "Wooden Club",
+  "item.weaponsoplenty.club_studded": "Studded Club",
+
+  "item.weaponsoplenty.cestus": "Normal Cestus",
+  "item.weaponsoplenty.cestus_studded": "Studded Cestus",
+
+  "item.weaponsoplenty.lance_wood": "Wooden Lance",
+  "item.weaponsoplenty.lance_stone": "Stone Lance",
+  "item.weaponsoplenty.lance_iron": "Iron Lance",
+  "item.weaponsoplenty.lance_gold": "Gold Lance",
+  "item.weaponsoplenty.lance_diamond": "Diamond Lance",
+  "item.weaponsoplenty.lance_netherite": "Netherite Lance",
+
+  "item.weaponsoplenty.pike_wood": "Wooden Pike",
+  "item.weaponsoplenty.pike_stone": "Stone Pike",
+  "item.weaponsoplenty.pike_iron": "Iron Pike",
+  "item.weaponsoplenty.pike_gold": "Gold Pike",
+  "item.weaponsoplenty.pike_diamond": "Diamond Pike",
+  "item.weaponsoplenty.pike_netherite": "Netherite Pike",
+
+  "item.weaponsoplenty.spear_wood": "Wooden Spear",
+  "item.weaponsoplenty.spear_stone": "Stone Spear",
+  "item.weaponsoplenty.spear_iron": "Iron Spear",
+  "item.weaponsoplenty.spear_gold": "Gold Spear",
+  "item.weaponsoplenty.spear_diamond": "Diamond Spear",
+  "item.weaponsoplenty.spear_netherite": "Netherite Spear",
+
+  "item.weaponsoplenty.halberd_wood": "Wooden Halberd",
+  "item.weaponsoplenty.halberd_stone": "Stone Halberd",
+  "item.weaponsoplenty.halberd_iron": "Iron Halberd",
+  "item.weaponsoplenty.halberd_gold": "Gold Halberd",
+  "item.weaponsoplenty.halberd_diamond": "Diamond Halberd",
+  "item.weaponsoplenty.halberd_netherite": "Netherite Halberd",
+
+  "item.weaponsoplenty.hammer_wood": "Wooden Warhammer",
+  "item.weaponsoplenty.hammer_stone": "Stone Warhammer",
+  "item.weaponsoplenty.hammer_iron": "Iron Warhammer",
+  "item.weaponsoplenty.hammer_gold": "Gold Warhammer",
+  "item.weaponsoplenty.hammer_diamond": "Diamond Warhammer",
+  "item.weaponsoplenty.hammer_netherite": "Netherite Warhammer",
+
+  "item.weaponsoplenty.warhammer_wood": "Wooden Battle Hammer",
+  "item.weaponsoplenty.warhammer_stone": "Stone Battle Hammer",
+  "item.weaponsoplenty.warhammer_iron": "Iron Battle Hammer",
+  "item.weaponsoplenty.warhammer_gold": "Gold Battle Hammer",
+  "item.weaponsoplenty.warhammer_diamond": "Diamond Battle Hammer",
+  "item.weaponsoplenty.warhammer_netherite": "Netherite Battle Hammer",
+
+  "item.weaponsoplenty.glaive_wood": "Wooden Glaive",
+  "item.weaponsoplenty.glaive_stone": "Stone Glaive",
+  "item.weaponsoplenty.glaive_iron": "Iron Glaive",
+  "item.weaponsoplenty.glaive_gold": "Gold Glaive",
+  "item.weaponsoplenty.glaive_diamond": "Diamond Glaive",
+  "item.weaponsoplenty.glaive_netherite": "Netherite Glaive",
+
+  "item.weaponsoplenty.battleaxe_wood": "Wooden Battleaxe",
+  "item.weaponsoplenty.battleaxe_stone": "Stone Battleaxe",
+  "item.weaponsoplenty.battleaxe_iron": "Iron Battleaxe",
+  "item.weaponsoplenty.battleaxe_gold": "Gold Battleaxe",
+  "item.weaponsoplenty.battleaxe_diamond": "Diamond Battleaxe",
+  "item.weaponsoplenty.battleaxe_netherite": "Netherite Battleaxe",
+
+  "item.weaponsoplenty.longbow_wood": "Wooden Longbow",
+  "item.weaponsoplenty.longbow_iron": "Iron Longbow",
+
+  "item.weaponsoplenty.heavy_crossbow_iron": "Heavy Iron Crossbow",
+
+  "itemGroup.weaponsoplenty": "Weapons'O'Plenty"
+}

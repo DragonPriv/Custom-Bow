@@ -1,0 +1,6 @@
+{
+  "parent": "weaponsoplenty:item/base/heavy_crossbow_firing",
+  "textures": {
+    "layer0": "weaponsoplenty:item/heavy_crossbow_iron_charged"
+  }
+}
